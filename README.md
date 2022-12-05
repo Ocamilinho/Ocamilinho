@@ -23,11 +23,11 @@ Estudo em Arraial do Cabo no Instituto de Tecnologia e Ciência do Rio de Janeir
 
 </div>
 
-### nivel de conhecimento conhecimentos:
+### Nível de conhecimento:
 - HTML/CSS (Alto) 
 - RubyOnRails (Mediano)
 - MySQL (Alto)
 - Java (Mediano)
 - PHP (Mediano)
-- React (Minimo)
+- React (Mínimo)
 - Figma e Sketch (Mediano)

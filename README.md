@@ -8,7 +8,7 @@ Estudo em Arraial do Cabo no Instituto de Tecnologia e Ciência do Rio de Janeir
 - Povo (Website)
 - Anotações (Aprendizados ao longo dos anos)
 
-### Linguagens e Tecnologias
+### Principais Linguagens e Tecnologias
 <div style="display: inline_block">
   <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -16,11 +16,6 @@ Estudo em Arraial do Cabo no Instituto de Tecnologia e Ciência do Rio de Janeir
   <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
   <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" height="40" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
-
 </div>
 
 ### Nível de conhecimento:
